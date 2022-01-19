@@ -1,0 +1,475 @@
+﻿  Source.cpp
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(91): warning C4244: '=': conversion from 'UINT_PTR' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(96): error C2664: 'HWND CreateDialogParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(96): note: None of the functions with this name in scope match the target type
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(171): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(171): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(172): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(172): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(174): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'char [50]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(174): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(177): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(177): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(178): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(178): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(192): warning C4244: '=': conversion from 'UINT_PTR' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(219): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [43]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(219): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(247): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [41]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(247): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(490): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(632): error C2664: 'INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(632): note: None of the functions with this name in scope match the target type
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(636): error C2664: 'INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(636): note: None of the functions with this name in scope match the target type
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(640): error C2664: 'INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(640): note: None of the functions with this name in scope match the target type
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(644): error C2664: 'INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(644): note: None of the functions with this name in scope match the target type
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(648): error C2664: 'INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(648): note: None of the functions with this name in scope match the target type
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(652): error C2664: 'INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)': cannot convert argument 4 from 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'DLGPROC'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(652): note: None of the functions with this name in scope match the target type
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(145): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(147): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(148): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(151): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(154): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(158): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(168): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(169): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(170): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(173): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(288): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(296): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(297): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(300): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(303): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(306): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(309): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(314): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(315): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(318): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(321): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(324): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(331): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(332): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(335): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(338): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(341): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(344): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(499): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(500): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(503): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(506): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(509): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(512): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(519): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(520): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(644): note: see declaration of '_itoa'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(521): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(524): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(644): note: see declaration of '_itoa'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(525): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(723): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(723): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(733): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(733): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(742): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(742): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(743): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(743): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(750): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(750): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(754): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(754): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(755): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(755): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(761): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(761): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(762): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(762): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(770): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(770): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(771): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(771): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(781): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(781): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(782): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(782): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(793): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(799): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [26]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(799): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(816): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [32]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(816): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(833): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(833): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(834): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(834): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(721): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(731): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(739): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(740): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(741): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(744): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(775): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(790): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(791): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(792): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(880): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(885): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(885): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(888): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(888): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(896): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(896): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(903): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(903): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(904): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(904): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(911): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(911): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(912): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(912): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(939): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(944): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(944): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(947): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(947): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(951): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [37]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(951): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(957): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(957): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(958): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(958): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(966): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(966): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(975): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(975): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(982): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(982): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(983): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(983): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1000): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1017): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1017): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1018): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1018): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1028): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1032): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1032): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1036): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1036): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1041): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [31]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1041): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1048): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1048): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1049): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1049): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1065): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1070): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1070): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1073): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1073): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1078): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [31]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1078): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1089): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1089): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1090): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1090): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(883): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(884): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(887): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(900): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(901): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(902): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(905): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(942): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(943): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(946): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(964): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(973): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(987): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(997): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(998): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(999): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1031): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1033): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1035): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1068): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1069): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1072): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1115): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [28]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1115): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1143): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1158): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1164): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1178): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1181): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1184): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1206): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1207): warning C4018: '<': signed/unsigned mismatch
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1223): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [26]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1223): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1240): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [28]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1240): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1190): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1196): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1200): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1214): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1215): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1303): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1305): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1323): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1359): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1361): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1378): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1382): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [37]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1382): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1390): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1393): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1396): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1417): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1418): warning C4018: '<': signed/unsigned mismatch
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1435): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1449): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1455): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1479): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1481): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1499): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1503): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [29]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1503): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1523): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1525): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1543): warning C4244: '=': conversion from 'LRESULT' to 'UINT', possible loss of data
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1547): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [29]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1547): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1308): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1309): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1320): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1364): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1365): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1376): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1402): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1408): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1412): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1425): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1426): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1484): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1485): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1496): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1528): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1529): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1540): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1600): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1600): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1603): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1603): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1616): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1616): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1617): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1617): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1623): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1623): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1627): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1627): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1628): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1628): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1634): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1634): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1635): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1635): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1648): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1648): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1651): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1651): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1655): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [31]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1655): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1661): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1661): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1662): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1662): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1675): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1675): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1678): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': cannot convert argument 2 from 'char [260]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1678): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1682): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [31]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1682): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1692): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [9]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1692): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1693): error C2664: 'MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)': cannot convert argument 1 from 'const char [10]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1693): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1599): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1602): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1613): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1614): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1615): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1618): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1647): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1650): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1674): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1677): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1740): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1755): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1756): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1761): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1765): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1769): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1772): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1829): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1832): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1835): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1838): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1841): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1844): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1881): warning C4060: switch statement contains no 'case' or 'default' labels
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1906): error C2440: '=': cannot convert from 'char [260]' to 'LPWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1906): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1916): error C2440: '=': cannot convert from 'const char [31]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1916): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1918): error C2440: '=': cannot convert from 'const char [29]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1918): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1924): error C2440: '=': cannot convert from 'LPWSTR' to 'char *'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1924): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1929): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char [18]' to 'LPCWSTR'
+  c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1929): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1949): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(644): note: see declaration of '_itoa'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1966): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(644): note: see declaration of '_itoa'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1991): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(644): note: see declaration of '_itoa'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1993): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1994): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1996): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(2001): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(644): note: see declaration of '_itoa'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(2002): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(2004): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(2006): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(2010): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(644): note: see declaration of '_itoa'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(2011): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(2012): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: see declaration of 'strcat'

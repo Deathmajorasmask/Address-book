@@ -1,2 +1,10 @@
-﻿  PrograII.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_Agenda\Debug\PrograII.exe
+﻿  Source.cpp
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1207): warning C4018: '<': signed/unsigned mismatch
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1418): warning C4018: '<': signed/unsigned mismatch
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1572): warning C4101: 'file1': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1570): warning C4101: 'Indicecon': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1881): warning C4060: switch statement contains no 'case' or 'default' labels
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(1901): warning C4101: 'hf': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_agenda\prograii\source.cpp(2018): warning C4172: returning address of local variable or temporary: fecha
+  PrograII.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_Agenda\Debug\PrograII.exe
   PrograII.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_Agenda\Debug\PrograII.pdb (Full PDB)
